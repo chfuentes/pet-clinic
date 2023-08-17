@@ -5,4 +5,3 @@ on: [push]
 jobs:
   call-pipeline:
     uses: chfuentes/devops-pipeline/.github/workflows/main.yml@feature-pipeline
-      
